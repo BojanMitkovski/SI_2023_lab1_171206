@@ -1,0 +1,24 @@
+C:\Users\Acer\SI_2023_lab1_171206>git log
+commit 8a3ccf37afa0b6902e2bc1b6bf5f527d1f739ec5 (HEAD -> master, origin/master, origin/bug3, origin/bug2, origin/bug1, bug3, bug2, bug1)
+Author: Bojan <mitkovski_boki@yahoo.com>
+Date:   Thu Apr 6 22:36:47 2023 +0200
+
+    Add java class
+
+commit 61222a73a28ce28bfdfb08d18df3e929aae0740f
+Author: Bojan <mitkovski_boki@yahoo.com>
+Date:   Thu Apr 6 22:36:30 2023 +0200
+
+    Initial commit
+
+commit 71792c681dd0ef38fa0de2b56ff424a51f971ec6
+Author: Bojan <mitkovski_boki@yahoo.com>
+Date:   Thu Apr 6 22:33:02 2023 +0200
+
+    Add java class
+
+commit d9786f7257d67995a8be81753c5bd43855dcd3ee
+Author: BojanMitkovski <130083273+BojanMitkovski@users.noreply.github.com>
+Date:   Thu Apr 6 22:06:41 2023 +0200
+
+    Initial commit
