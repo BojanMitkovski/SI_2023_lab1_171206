@@ -1,1 +1,1 @@
-# SI_2023_lab1_171206
+Bojan Mitkovski 171206
